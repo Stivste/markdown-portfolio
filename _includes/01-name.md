@@ -1,2 +1,2 @@
-# Stivste
-## Learning Py
+# _Stivste_
+### _learning Pyhon_
